@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App minimal</string>
+    <string name="degree">°C</string>
+
+</resources>
